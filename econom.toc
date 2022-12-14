@@ -1,0 +1,10 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Введение}{3}{}%
+\contentsline {section}{\numberline {2}Определение электронных денег}{3}{}%
+\contentsline {section}{\numberline {3}Типы электронных денег}{4}{}%
+\contentsline {section}{\numberline {4}Теория, обеспечивающая работу электронных денег}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Метод слепой цифровой подписи}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Протокол RSA}{5}{}%
+\contentsline {section}{\numberline {5}Особенности криптовалют}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Недостатки криптовалют}{5}{}%
+\contentsline {section}{\numberline {6}Заключение}{7}{}%

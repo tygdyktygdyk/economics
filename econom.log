@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.11.12)  14 DEC 2022 11:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.11.12)  15 DEC 2022 06:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,39 +547,81 @@ File: pic1.jpg Graphic file (type jpg)
 <use pic1.jpg>
 Package pdftex.def Info: pic1.jpg  used on input line 120.
 (pdftex.def)             Requested size: 483.69687pt x 229.07356pt.
- [4 <./pic1.jpg>] [5]
+ [4 <./pic1.jpg>]
+Overfull \hbox (23.71393pt too wide) in paragraph at lines 151--152
+\T2A/cmr/m/n/12 крип-то-ва-лют поз-во-л€-ет из-бе-гать упла-ту на-ло-гов, осу-щ
+еств-л€ть обо-рот неле-галь-ных товаров.[[]] 
+ []
+
+[5]
 <pic2.png, id=35, 699.21225pt x 314.3745pt>
 File: pic2.png Graphic file (type png)
 <use pic2.png>
-Package pdftex.def Info: pic2.png  used on input line 157.
+Package pdftex.def Info: pic2.png  used on input line 159.
 (pdftex.def)             Requested size: 483.69687pt x 217.47987pt.
- [6 <./pic2.png>] [7] (./econom.aux)
+ [6 <./pic2.png>] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+[]\T2A/cmr/m/n/12 ’абр’абр: Ёлек-трон-ные день-ги $\OT1/cmr/m/n/12 [$\T2A/cmr/m
+/n/12 Ёлектронный ресурс$\OT1/cmr/m/n/12 ]$ \T2A/cmr/m/n/12 // URL:
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 187--188
+\T2A/cmr/m/n/12 URL: https://mediascope.net/news/1061511/?sphrase_id=194741 (да
+-та об-ра-ще-ни€:
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 189--190
+\T2A/cmr/m/n/12 URL: https://thebell.io/krakh-terra-sboy-tether-chto-proiskhodi
+t-na-kriptorynke-i-chem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+\T2A/cmr/m/n/12 URL: https://vc.ru/u/1304906-crypto-smi/544584-legalizaciya-kri
+ptovalyuty-v-rossii-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\T2A/cmr/m/n/12 URL: https://finance.yahoo.com/news/good-drug-dealers-nobel-pri
+ze-winners-snub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\T2A/cmr/m/n/12 URL: https://www.cnet.com/personal-finance/crypto/bitcoin-minin
+g-how-much-
+ []
+
+[8] (./econom.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4214 strings out of 480726
- 58797 string characters out of 5907433
- 374784 words of memory out of 5000000
- 21089 multiletter control sequences out of 15000+600000
+ 4228 strings out of 480726
+ 58920 string characters out of 5907433
+ 375825 words of memory out of 5000000
+ 21103 multiletter control sequences out of 15000+600000
  416467 words of font info for 51 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 68i,9n,74p,2274b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,9n,74p,2595b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf
-/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf/fonts/type1/public
-/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf
-/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/
-cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pf
-b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/
-fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb
->
-Output written on econom.pdf (7 pages, 385188 bytes).
+/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on econom.pdf (8 pages, 400366 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
